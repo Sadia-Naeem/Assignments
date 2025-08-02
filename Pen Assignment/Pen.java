@@ -1,5 +1,5 @@
-public class Pen{
-      String color;
+public class Pen {
+    String color;
       String type;   // type such as ink pen, gel pen
 
 public void write() {
@@ -12,3 +12,4 @@ public void printType() {
     System.out.println(this.type);
      }
  }
+
